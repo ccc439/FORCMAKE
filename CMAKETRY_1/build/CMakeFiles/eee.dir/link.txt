@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/eee.dir/main.cpp.o CMakeFiles/eee.dir/add.cpp.o -o eee 
