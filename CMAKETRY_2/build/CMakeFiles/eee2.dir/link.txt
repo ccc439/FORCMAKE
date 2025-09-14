@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/eee2.dir/main.cpp.o -o eee2  add_sub/libADD.a add_sub/libSUB.a 

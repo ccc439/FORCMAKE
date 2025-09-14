@@ -1,0 +1,2 @@
+/usr/bin/ar qc libADD.a CMakeFiles/ADD.dir/add.cpp.o
+/usr/bin/ranlib libADD.a
