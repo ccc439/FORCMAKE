@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/server.dir/muduo_server.cpp.o -o /home/luoyanzhou/PROJECT/MUDUOTRY/bin/server  -lmuduo_net -lmuduo_base -lpthread 
